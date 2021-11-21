@@ -1,11 +1,11 @@
-let prenom = "Fatima";
-let nom = "MRIKIK";
-
-console.log(" Bonjour " + prenom + " " + nom +  " ! ");
+// cours sur les boucles for
 
 
+for (var i =0; i<10; i++) {
+    console.log("je m'appelle Fatima" +i );
 
 
+}
 
 
 
